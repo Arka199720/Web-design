@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Arka's Personal Site</title>
+</head>
+
+<body>
+  <hr>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPlnNk7FHX6G218rvWicEbhD9BZEXn2m8pw&usqp=CAU" alt="My Profile Picture">
+  <h1>Arka Chatterjee</h1>
+  <p><em></em>Core Team Member & Treasurer of<strong> ACM</strong>,Content Writing <strong>Lead-GDSC23</strong> </em></p>
+  <p>I am a <strong>Web Developer</strong> ,I love <strong>Coffee</strong> and love to Learn,innovate & Grow</p>
+  <hr>
+  <h3>Education</h3>
+  <ul>
+    <li><strong><a href="https://uem.edu.in/engineering">University of Engineering and Management,Jaipur</a></strong>(Pursuing B.tech(CSE))</li>
+    <li><a href="http://www.pvmdgp.org/">Pranavananda Vidyamandir</a>(Till High School)</li>
+    <li>Zoom International(Higher Secondary)</li>
+  </ul>
+  <h3>My Hobbies</h3>
+  <ol>
+    <li>Content Writing</li>
+    <li>Adventure</li>
+    <li>Explore and innovate new things myself </li>
+  </ol>
+  <h3><strong>Work Experience</strong> </h3>
+  <table>
+    <tr>
+  <th>Dates</th>
+         <th>Work</th>
+    </table>
+    </tr>
+    <tr>
+      <hr>
+      <table>
+<td>2021-Present Working at Eduhub Community</td>
+    </tr>
+    <tr>
+<td> 2023-Nominated Officer position at ACM</td>
+    </tr>
+  </table>
+  <hr>
+</body>
+
+</html>
